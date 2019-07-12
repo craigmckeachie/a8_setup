@@ -1,4 +1,5 @@
-# Setup for Angular Course (version 8.0.3.0)
+# Setup for Angular Course 
+###### Version 8.0.3.0
 1. A recent version of Windows (7 or later) or macOS, with current system updates and: 
    - at least 4 GB of RAM 
    - 8 GB is great
