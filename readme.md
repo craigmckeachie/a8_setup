@@ -38,7 +38,8 @@
 
 
 4.	Node.js installed, **Version 10.x**
-    -	Please note, we will use a Long-Term Support (LTS) version 10.x, because some earlier and later versions are not compatible with Angular 8 or with some important Node packages that we will use during class.  **Please DO NOT use Node 8.x or Node 11.x or 12.x for this class.**
+    -	Please note, we will use a _Long-Term Support (LTS) version_ `10.x`, because some earlier and later versions are not compatible with Angular 8 or with some important Node packages that we will use during class.  
+    - **`Please DO NOT use Node 8.x or Node 11.x or 12.x for this class.`**
 
     -	If you have not installed Node yet, please 
         - Visit http://nodejs.org/
