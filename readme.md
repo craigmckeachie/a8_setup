@@ -34,6 +34,7 @@
         -   It comes with a free 30-day trial
         - 	[Configure WebStorm as outlined in this document ](./webstorm/configuration.md)
         
+        >
         >   WebStorm is made by the company Jetbrains who also makes IntelliJ IDEA.  IntelliJ IDEA Ultimate (available from https://www.jetbrains.com/idea/download/ ) also contains the same editing features as WebStorm, and it has a similar free 30-day trial, so that is another possible option for class.  However, please note that the free IntelliJ IDEA Community Edition does NOT have the same level of support for JavaScript, TypeScript, and Angular, so anyone who plans to use IntelliJ in this class should have the Ultimate edition.
 
 
