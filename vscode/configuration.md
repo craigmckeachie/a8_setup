@@ -1,28 +1,29 @@
 # Visual Studio Code Configuration
 
-1. From the top menus choose`View > Command Pallette...`
+1. From the top menus choose`View > Command Palette...`
 2. Type the command `open settings`
-3. Choose the command `Open Settings.JSON` from the autocomplete list
+3. Choose the command `Open Settings (JSON)` from the autocomplete list
 4. Copy/Paste the "name":value below into the `settings.json` file.
    > Be sure not to leave any existing settings as shown below and DO NOT copy the comments because comments are not valide in a JSON file and are there just to indicate where any existing settings would be.
 
 `settings.json`
- ```js
- {
-  // existing settings here
-  // ...
 
-  "editor.fontFamily": "Fira Code iScript, Menlo, Monaco, 'Courier New', monospace",
-  "editor.fontLigatures": true,
-  "prettier.singleQuote": true,
-  "prettier.printWidth": 80,
-  "editor.multiCursorModifier": "alt",
-  "editor.formatOnSave": true,
-  "workbench.iconTheme": "material-icon-theme",
-  "emmet.includeLanguages": {"typescript": "html"}
+```js
+{
+ // existing settings here
+ // ...
+
+ "editor.fontFamily": "Fira Code iScript, Menlo, Monaco, 'Courier New', monospace",
+ "editor.fontLigatures": true,
+ "prettier.singleQuote": true,
+ "prettier.printWidth": 80,
+ "editor.multiCursorModifier": "alt",
+ "editor.formatOnSave": true,
+ "workbench.iconTheme": "material-icon-theme",
+ "emmet.includeLanguages": {"typescript": "html"}
 
 }
- ```
+```
 
 # Install a font for programming (optional)
 

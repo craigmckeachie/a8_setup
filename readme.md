@@ -28,20 +28,28 @@
     - Visual Studio Code is a free download from
 
       - https://code.visualstudio.com/download
+        - Windows users, please select the **System Installer** if you are running as an Administrator.
 
-      > Note that Visual Studio Code is NOT the same application as Visual Studio. It is a free open-source lightweight text editor similar to Sublime Text, Atom, or Brackets. It is a small quick install and is now [the most popular development environment](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools) according to the Stack Overflow Developer Survey Restuls. It was created by the same guy who created the Eclipse IDE.
+      > Note that Visual Studio Code is NOT the same application as Visual Studio. It is a free open-source lightweight text editor similar to Sublime Text, Atom, or Brackets. It is a small quick install and is now [the most popular development environment](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools) according to the Stack Overflow Developer Survey Results. It was created by the same guy who created the Eclipse IDE.
 
-    - Please install the Angular Essentials - Extension Pack for VS Code by clicking the install button on this page
-      - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
-    - After the Angular Essentials is finished:
-      - [Configure Visual Studio Code as outlined in this document](./vscode/configuration.md)
-    - WebStorm is available from
+      - Please install the Angular Essentials - Extension Pack for VS Code by clicking the install button on this page
+        - https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials
+      - After the Angular Essentials is finished:
+        - [Configure Visual Studio Code as outlined in this document](./vscode/configuration.md)
+
+    - WebStorm is available (as an alternative to Visual Studio Code) from
 
       - https://www.jetbrains.com/webstorm/download
       - It comes with a free 30-day trial
-      -     [Configure WebStorm as outlined in this document ](./webstorm/configuration.md)
+      - [Configure WebStorm as outlined in this document ](./webstorm/configuration.md)
 
-      * > WebStorm is made by the company Jetbrains who also makes IntelliJ IDEA. IntelliJ IDEA Ultimate (available from https://www.jetbrains.com/idea/download/ ) also contains the same editing features as WebStorm, and it has a similar free 30-day trial, so that is another possible option for class. However, please note that the free IntelliJ IDEA Community Edition does NOT have the same level of support for JavaScript, TypeScript, and Angular, so anyone who plans to use IntelliJ in this class should have the Ultimate edition.
+      * >
+
+    - IntelliJ IDEA Ultimate (is another alternative to Visual Studio Code) and is available from
+      - https://www.jetbrains.com/idea/download/
+      - WebStorm is made by the company Jetbrains who also makes IntelliJ IDEA.
+      - It also contains the same editing features as WebStorm, and it has a similar free 30-day trial, so that is another possible option for class.
+      - However, please note that the free IntelliJ IDEA Community Edition does NOT have the same level of support for JavaScript, TypeScript, and Angular, so anyone who plans to use IntelliJ in this class should have the Ultimate edition.
 
 4)  Node.js installed, **Version 10.x**
 
@@ -136,5 +144,7 @@
         - component-first
         - ...
       - docs
+        - some pdf files
+        - upgrade_manual
 
 9.  Your computer is now ready for class – you may exit from the Terminal / command prompt and any other programs that you were using in the setup.
