@@ -4,7 +4,7 @@
 2. Type the command `open settings`
 3. Choose the command `Open Settings (JSON)` from the autocomplete list
 4. Copy/Paste the "name":value below into the `settings.json` file.
-   > Be sure not to leave any existing settings as shown below and DO NOT copy the comments because comments are not valide in a JSON file and are there just to indicate where any existing settings would be.
+   > Be sure not to leave any existing settings as shown below and DO NOT copy the comments because comments are not valid in a JSON file and are there just to indicate where any existing settings would be.
 
 `settings.json`
 
