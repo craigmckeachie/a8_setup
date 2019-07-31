@@ -41,7 +41,7 @@
 
       - https://www.jetbrains.com/webstorm/download
       - It comes with a free 30-day trial
-      - [Configure WebStorm as outlined in this document ](./webstorm/configuration.md)
+
 
       * >
 
@@ -51,7 +51,7 @@
       - It also contains the same editing features as WebStorm, and it has a similar free 30-day trial, so that is another possible option for class.
       - However, please note that the free IntelliJ IDEA Community Edition does NOT have the same level of support for JavaScript, TypeScript, and Angular, so anyone who plans to use IntelliJ in this class should have the Ultimate edition.
 
-4)  Node.js installed, **Version 10.x**
+4.  Node.js installed, **Version 10.x**
 
     - Please note, we will use a _Long-Term Support (LTS) version_ `10.x`, because some earlier and later versions are not compatible with Angular 8 or with some important Node packages that we will use during class.
     - **`Please DO NOT use Node 8.x or Node 11.x or 12.x for this class.`**
@@ -75,7 +75,7 @@
       - CERT or certificate issues sometimes result from corporate firewalls particularly if they use a self-signed certificate. This post discusses various approaches to getting npm to work behind a corporate firewall.
         https://stackoverflow.com/questions/13913941/how-to-fix-ssl-certificate-error-when-running-npm-on-windows
 
-5.  Install the Angular CLI (as an Administrator if permitted) and confirm the installation:
+5)  Install the Angular CLI (as an Administrator if permitted) and confirm the installation:
 
     >     Note: depending on your security settings, you may or may not be able to run the command prompt as Administrator for this installation.  If you run into any difficulty, please let us know.
 
@@ -94,7 +94,7 @@
       npm update -g @angular/cli@8
       ```
 
-6.  Create a new project with the Angular CLI
+6)  Create a new project with the Angular CLI
 
     - Create an empty directory named ngverify on your machine in a location where you have permissions to create and edit files (for example, `c:\ngverify` OR `c:\users\[username]\Documents\ngverify`)
     - In the Administrator command prompt from the previous step, change the current directory to ngverify
@@ -123,8 +123,8 @@
 
     - Close your browser tab and the command prompt.
 
-7.  Internet access for all attendees and the instructor is required.
-8.  Download the files for the course, a link to a zip file with course files will be provided along with this setup information.
+7)  Internet access for all attendees and the instructor is required.
+8)  Download the files for the course, a link to a zip file with course files will be provided along with this setup information.
 
     - Depending on the course you are taking the zip file will be one of the following:
       - AngularCourseIntroduction-8030.zip
@@ -147,4 +147,4 @@
         - some pdf files
         - upgrade_manual
 
-9.  Your computer is now ready for class – you may exit from the Terminal / command prompt and any other programs that you were using in the setup.
+9)  Your computer is now ready for class – you may exit from the Terminal / command prompt and any other programs that you were using in the setup.
