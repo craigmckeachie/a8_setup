@@ -15,13 +15,24 @@
 
  "editor.fontFamily": "Fira Code iScript, Menlo, Monaco, 'Courier New', monospace",
  "editor.fontLigatures": true,
- "prettier.singleQuote": true,
- "prettier.printWidth": 80,
  "editor.multiCursorModifier": "alt",
  "editor.formatOnSave": true,
  "workbench.iconTheme": "material-icon-theme",
  "emmet.includeLanguages": {"typescript": "html"}
 
+}
+```
+
+# Configure Prettier Plugin
+
+1. In the `project-manage` folder create the following file and add the configuration shown below.
+
+#### `.prettierrc`
+
+```json
+{
+  "printWidth": 80,
+  "singleQuote": true
 }
 ```
 
