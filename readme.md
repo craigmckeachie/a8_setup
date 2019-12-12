@@ -1,6 +1,6 @@
 # Setup for Angular Course
 
-###### Version 8.0.3.0
+###### Version 8.0.3.1
 
 1.  A recent version of Windows (7 or later) or macOS, with current system updates and:
     - at least 4 GB of RAM
@@ -51,14 +51,14 @@
       - It also contains the same editing features as WebStorm, and it has a similar free 30-day trial, so that is another possible option for class.
       - However, please note that the free IntelliJ IDEA Community Edition does NOT have the same level of support for JavaScript, TypeScript, and Angular, so anyone who plans to use IntelliJ in this class should have the Ultimate edition.
 
-4.  Node.js installed, **Version 10.x**
+4.  Node.js installed, **Version 10.x or 12.x**
 
-    - Please note, we will use a _Long-Term Support (LTS) version_ `10.x`, because some earlier and later versions are not compatible with Angular 8 or with some important Node packages that we will use during class.
-    - **`Please DO NOT use Node 8.x or Node 11.x or 12.x for this class.`**
+    - Please note, we will use a _Long-Term Support (LTS) version_ `10.x` or `12.x`, because some earlier and later versions are not compatible with Angular 8 or with some important Node packages that we will use during class.
+    - **`Please DO NOT use Node 8.x or Node 11.x or 13.x for this class.`**
 
     - If you have not installed Node yet, please
       - Visit http://nodejs.org/
-      - Click the green `10.16.0 LTS` (or similar) button on the left below the “Download for [your operating system]” heading to download the installer file.
+      - Click the green `12.13.1 LTS` (or similar) button on the left below the “Download for [your operating system]” heading to download the installer file.
     - After installation, please confirm that the Path environment variable on your computer has been modified to include the path for node and npm:
     - In a Mac Terminal prompt or a Windows command prompt (in Windows 7, click the Start button and type `cmd`), run the commands:
       ```
@@ -127,14 +127,14 @@
 8)  Download the files for the course, a link to a zip file with course files will be provided along with this setup information.
 
     - Depending on the course you are taking the zip file will be one of the following:
-      - AngularCourseIntroduction-8030.zip
-      - AngularCourseAdvanced-8030.zip
-      - AngularCourseComprehensive-8030.zip
+      - AngularCourseIntroduction-8031.zip
+      - AngularCourseAdvanced-8031.zip
+      - AngularCourseComprehensive-8031.zip
     - Unzip the files into a directory where you can easily find them and have full permissions (Desktop or Documents).
 
     Verify the resulting directory structure is as follows:
 
-    - AngularCourse[Introduction |Advanced |Comprehensive]-8030
+    - AngularCourse[Introduction |Advanced |Comprehensive]-8031
       - code
         - demos
         - labs
