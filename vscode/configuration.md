@@ -25,16 +25,16 @@
 
 # Configure Prettier Plugin
 
-1. In the `project-manage` folder create the following file and add the configuration shown below.
+1. In the `code` folder create the following file and add the configuration shown below.
 
-#### `.prettierrc`
+   #### `prettier.config.js`
 
-```json
-{
-  "printWidth": 80,
-  "singleQuote": true
-}
-```
+   ```js
+   module.exports = {
+     printWidth: 80,
+     singleQuote: true
+   };
+   ```
 
 # Install a font for programming (optional)
 
@@ -46,3 +46,7 @@ If you are interested in trying a new font designed for programming.
 - [How to Install Fonts on Mac](https://www.dafont.com/faq.php#mac)
 
 2. Close and reopen VS Code to see the new font.
+
+```
+
+```
