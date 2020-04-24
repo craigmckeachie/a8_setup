@@ -22,7 +22,7 @@
 
 }
 ```
-
+/*
 # Configure Prettier Plugin
 
 1. In the `code` folder create the following file and add the configuration shown below.
@@ -35,6 +35,7 @@
      singleQuote: true
    };
    ```
+*/
 
 # Install a font for programming (optional)
 
