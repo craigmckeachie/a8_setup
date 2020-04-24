@@ -35,6 +35,3 @@ If you are interested in trying a new font designed for programming.
 
 2. Close and reopen VS Code to see the new font.
 
-```
-
-```
